@@ -62,4 +62,6 @@ loss по расстоянию Левейнштейна на тестовой в
 - docker load -i morse-bot.tar
 - docker run -e BOT_TOKEN=YOUR_TOKEN -p 8000:8000 morse-bot
 - готово! бот будет запущен
+Пример работы:
+![image](https://github.com/user-attachments/assets/f15d813e-85f0-434d-9ab3-536b8eb13443)
 
