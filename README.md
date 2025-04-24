@@ -53,7 +53,7 @@ loss по расстоянию Левейнштейна на тестовой в
 - скачать morse-bot.tar
 - открыть консоль, перейти в директорию с morse-bot.tar
 - запустить команды:
-docker load -i morse-bot.tar
-docker run -e BOT_TOKEN=YOUR_TOKEN -p 8000:8000 morse-bot
+- docker load -i morse-bot.tar
+- docker run -e BOT_TOKEN=YOUR_TOKEN -p 8000:8000 morse-bot
 - готово! бот будет запущен
 
